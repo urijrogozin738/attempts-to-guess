@@ -1,0 +1,2 @@
+  echo "Welcome to the 'Guess the Number' game!\n";
+    echo "I've picked a number between 1 and 10. You have 3 attempts to guess it.\n";
